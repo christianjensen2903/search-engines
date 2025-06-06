@@ -1,4 +1,8 @@
 venv
 data
 indexes
+debug_indexes
 runs
+evaluations
+.mypy_cache
+__pycache__
