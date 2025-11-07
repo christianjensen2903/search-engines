@@ -236,4 +236,4 @@ If you use this code or methodology in your research, please cite:
 
 ---
 
-**Note**: This work was completed as part of the UCPH course Search Engines. The complete report with detailed methodology, statistical analysis, and error analysis is available [here](link-to-report).
+**Note**: This work was completed as part of the UCPH course Search Engines. The complete report with detailed methodology, statistical analysis, and error analysis is available [here](https://github.com/christianjensen2903/search-engines/blob/main/Search_Engine_Course.pdf).
