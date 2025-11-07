@@ -1,4 +1,4 @@
-# Information Retrieval System: BM25, LMD & Query Expansion
+# Search Engines Course Project
 
 A comprehensive implementation and evaluation of lexical retrieval systems on MS MARCO, exploring indexing strategies, ranking models, and query expansion techniques.
 
